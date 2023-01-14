@@ -11,10 +11,8 @@
     <img src="https://img.shields.io/badge/Habr-green?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=julant7&style=flat-square&color=yellow" alt=""/>
   <h1>
   Hello world!
- 
   </h1>
 </div>
 
